@@ -1,0 +1,44 @@
+.BodyOfBackground {
+    background-color: black;
+}
+
+.PostCardBackground {
+    background-color: white;
+    width: 550px;
+    height: 250px;
+    margin: 250px auto;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Buttonallienment {
+    text-align: center;
+    float: left;
+    width: 550px;
+}
+
+#leftcontent {
+    float: left;
+    width: 275px;
+}
+
+#rightcontent {
+    float: right;
+    width: 245px;
+    padding-left: 30px;
+
+}
+
+.imageadjesment {
+    width: 70px;
+    height: 70px;
+}
+
+.textboxes {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 25px;
+}
